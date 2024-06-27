@@ -1,1 +1,31 @@
-console.log("Hello my friend");
+function runGame() {
+
+}
+
+function checkAnswer() {
+
+}
+
+function calculateCorrectAnswer() {
+
+}
+
+function incrementScore() {
+
+}
+
+function incrementWrongAnswer() {
+
+}
+
+function displayAdditionQuestion() {
+
+}
+
+function displaySubtractQuestion() {
+
+}
+
+function displayMultiplyQuestion() {
+
+}
